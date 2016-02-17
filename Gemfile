@@ -14,6 +14,7 @@ gem 'better_errors', '~> 2.1', '>= 2.1.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'paperclip', '~> 4.3', '>= 4.3.5'
 gem 'cocoon', '~> 1.2', '>= 1.2.7'
+gem 'devise', '~> 3.5', '>= 3.5.6'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 group :development, :test do
